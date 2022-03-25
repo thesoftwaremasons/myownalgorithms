@@ -20,6 +20,7 @@ int get(Array *arr, int value)
 int main(int argc, char const *argv[])
 {
     Array arr1 = {{2, 3, 9, 16, 18}, 5, 10};
+    
     int result = get(&arr1, 12);
     printf("%d ", result);
     /* code */
