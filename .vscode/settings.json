@@ -2,6 +2,12 @@
     "files.associations": {
         "xlocale": "cpp",
         "limits": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "xlocnum": "cpp",
+        "xutility": "cpp"
     }
 }
